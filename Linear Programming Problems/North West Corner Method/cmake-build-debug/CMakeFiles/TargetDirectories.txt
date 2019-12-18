@@ -1,0 +1,3 @@
+F:/My projects/Numerical/LPP/NWCM/cmake-build-debug/CMakeFiles/NWCM.dir
+F:/My projects/Numerical/LPP/NWCM/cmake-build-debug/CMakeFiles/edit_cache.dir
+F:/My projects/Numerical/LPP/NWCM/cmake-build-debug/CMakeFiles/rebuild_cache.dir

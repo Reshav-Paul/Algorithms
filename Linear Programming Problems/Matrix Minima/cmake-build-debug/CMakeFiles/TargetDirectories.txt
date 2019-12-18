@@ -1,0 +1,3 @@
+F:/My projects/Numerical/LPP/MatrixMinima/cmake-build-debug/CMakeFiles/MatrixMinima.dir
+F:/My projects/Numerical/LPP/MatrixMinima/cmake-build-debug/CMakeFiles/edit_cache.dir
+F:/My projects/Numerical/LPP/MatrixMinima/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,3 @@
+F:/My projects/Numerical/Jacobi/cmake-build-debug/CMakeFiles/Jacobi.dir
+F:/My projects/Numerical/Jacobi/cmake-build-debug/CMakeFiles/edit_cache.dir
+F:/My projects/Numerical/Jacobi/cmake-build-debug/CMakeFiles/rebuild_cache.dir
